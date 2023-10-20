@@ -18,3 +18,7 @@ This is a C++ program that simulates and visually displays the projectile motion
 
    ```bash
    git clone https://github.com/Leslie-23/trajectoryCalculator.git
+
+
+   in this version all the data for calculation will need to in to the source file itself. But upgrades to come later on    :)
+THANKS
